@@ -3,10 +3,9 @@
 
 
 
-## 目录
+# 目录
 - [AIClass](#aiclass)
-  - [目录](#目录)
-- [项目目录](#项目目录)
+- [目录](#目录)
   - [BERT](#bert)
   - [CLIP](#clip)
   - [DDPM](#ddpm)
@@ -22,7 +21,6 @@
 
 
 
-# 项目目录
 
 ## [BERT](./BERT/README.md)
 
